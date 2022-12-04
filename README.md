@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Profited
 - 👀 I’m interested in Networking
-- 🌱 I’m currently learning for my CCNP
+- 🌱 I’m currently an Engineer at a transportation company
 - 💞️ I’m looking to collaborate on projects that involve networking
 - 📫 How to reach me tim@backend.gg
 
