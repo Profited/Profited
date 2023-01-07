@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on projects that involve networking
 - 📫 How to reach me sub@backend.gg
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Profited&count_private=true&show_icons=true&theme=highcontrast)
-
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Profited&count_private=true&show_icons=true&theme=highcontrast)
